@@ -1,0 +1,17 @@
+GET http://localhost:8080/exam/java/add?question=Q1&answer=A1
+###
+GET http://localhost:8080/exam/java/add?question=Q2&answer=A2
+###
+GET http://localhost:8080/exam/java/add?question=Q3&answer=A3
+###
+GET http://localhost:8080/exam/java/add?question=Q4&answer=A4
+###
+GET http://localhost:8080/exam/java/add?question=Q5&answer=A5
+###
+GET http://localhost:8080/exam/java
+###
+GET http://localhost:8080/exam/java/remove?question=Q1&answer=A1
+###
+GET http://localhost:8080/exam/java
+###
+GET http://localhost:8080/exam/get/1
