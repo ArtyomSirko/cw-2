@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 
-public class MathQuestionRepositoryTest {
+public class  MathQuestionRepositoryTest {
 
     private final QuestionRepository questionRepository = new MathQuestionRepository();
 

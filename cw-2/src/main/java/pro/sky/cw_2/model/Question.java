@@ -2,6 +2,7 @@ package pro.sky.cw_2.model;
 
 import java.util.Objects;
 
+
 public class Question {
 
     private final String question;

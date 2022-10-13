@@ -21,7 +21,7 @@ import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
-public class JavaQuestionServiceTest {
+public class  JavaQuestionServiceTest {
 
     @Mock
     private JavaQuestionRepository javaQuestionRepository;

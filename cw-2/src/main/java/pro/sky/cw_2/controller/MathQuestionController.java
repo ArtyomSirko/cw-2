@@ -12,6 +12,7 @@ import java.util.Collection;
 
 @RestController
 @RequestMapping("/math")
+
 public class MathQuestionController {
 
     private final QuestionService questionService;

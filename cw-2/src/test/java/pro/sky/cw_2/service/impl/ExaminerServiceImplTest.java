@@ -24,7 +24,7 @@ import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 import static org.mockito.Mockito.*;
 
 @ExtendWith(MockitoExtension.class)
-public class ExaminerServiceImplTest {
+public class  ExaminerServiceImplTest {
 
     @Mock
     private JavaQuestionService javaQuestionService;
