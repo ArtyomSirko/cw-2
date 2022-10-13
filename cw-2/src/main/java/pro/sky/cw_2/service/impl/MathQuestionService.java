@@ -47,5 +47,4 @@ public class MathQuestionService implements QuestionService {
         Collection<Question> questions = getAll();
         return new ArrayList<>(questions).get(random.nextInt(questions.size()));
     }
-
 }
